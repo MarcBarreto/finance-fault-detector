@@ -29,10 +29,7 @@ finance-fault-detector
 ## Installation
 To run this project, you need to have Google Colab or a local Jupyter Notebook setup. Follow the instructions below to get started:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/finance-fault-detector.git
-   cd finance-fault-detector
+1. **Open Google Colab**: Go to [Google Colab](https://colab.research.google.com/).
 
 2. **Upload the Notebook**:
    - Click on `File` > `Upload notebook`.
